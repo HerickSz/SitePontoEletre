@@ -687,8 +687,7 @@ a.button2 {
     }
 
     .endereco strong {
-        text-shadow: 2px 2px 2px#8b8b8b;
-        font-weight: 600;
+        font-weight: bold;
         color: #0400ff;
     }
 
@@ -734,7 +733,7 @@ a.button2 {
 
     .endereco p {
         font-size: 17px;
-        font-weight: 400;
+        font-weight: 600;
     }
 
     .content {
